@@ -1,7 +1,7 @@
 # image-unshred
 This Mathematica notebook unshreds shredded images using an edge-matching method and sorting algorithm.
 
-It can be used to solve puzzles in which an image has been shredded, as if through a paper shredder, into vertical slices, and each slice has been arbitrarily flipped.
+It can be used to solve puzzles in which an image has been shredded, as if through a paper shredder, into vertical slices, and each slice has been arbitrarily flipped and/or rotated.
 
 ![image](https://github.com/devinbresser/image-unshred/assets/66394890/cdfb1c6c-74c5-4873-b62d-e375184f1253)
 
